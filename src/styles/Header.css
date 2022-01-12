@@ -1,0 +1,23 @@
+.Header {
+  background: royalblue;
+}
+.ContentContainer {
+  margin: 0 auto;
+  padding: 0 4rem;
+  /* max-width: 80rem; */
+}
+
+.HeaderContent {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+}
+
+.HeaderTitle {
+  color: goldenrod;
+  text-decoration: none;
+}
+
+.HeaderTitle > h1 {
+  margin: 0;
+}
